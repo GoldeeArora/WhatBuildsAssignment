@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891555022841",
+    "project_id": "otp-assignment-01",
+    "storage_bucket": "otp-assignment-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891555022841:android:967b95ef9ae0d22cf99f28",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAww0HLdKxZPb1FBV26MHQXJsdx3MQGFE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
